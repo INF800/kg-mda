@@ -9,10 +9,10 @@ MD&A text data ([from here](https://github.com/chenhuililucy/Management-Discussi
 
 Here are a couple of graphs for specific relationship types:
 
-- **Shares Border With:** Graph is hosted [here](https://inf800.github.io/kg-mda/html/industry_mda2019to21.html). HTML file is available in `./html` directory.
+- **Shares Border With:** Graph is hosted [here](https://inf800.github.io/kg-mda/html/shares_border_with_mda2019to21.html). HTML file is available in `./html` directory.
   > *This is a **smaller** graph, so loads **faster***.
   > <a href="https://inf800.github.io/kg-mda/html/shares_border_with_mda2019to21.html"><img src="assets/graph-loc.png"></img></a>
-- **Industry:** Graph is hosted [here](https://inf800.github.io/kg-mda/html/shares_border_with_mda2019to21.html). HTML file is available in `./html` directory.
+- **Industry:** Graph is hosted [here](https://inf800.github.io/kg-mda/html/industry_mda2019to21.html). HTML file is available in `./html` directory.
   > *This is a **larger** graph, so loads **slower***.
   > <a href="https://inf800.github.io/kg-mda/html/industry_mda2019to21.html"><img src="assets/graph-ind.png"></img></a>
 
